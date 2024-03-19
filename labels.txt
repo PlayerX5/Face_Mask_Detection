@@ -1,0 +1,2 @@
+0 With_Mask
+1 Without_Mask
